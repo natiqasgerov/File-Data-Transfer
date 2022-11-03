@@ -1,0 +1,85 @@
+C:\Users\User\source\repos\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\User\source\repos\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\User\source\repos\WpfApp657\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\User\source\repos\WpfApp657\WpfApp6\obj\Debug\WpfApp6.pdb
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\App.g.cs
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.pdb
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignColors.dll
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignColors.pdb
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\App.baml
+C:\Users\esge_wk39\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\WpfApp657\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\App.g.cs
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\App.baml
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\User\Desktop\WpfApp657\WpfApp6\obj\Debug\WpfApp6.pdb
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\WpfApp6.exe.config
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\WpfApp6.exe
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\WpfApp6.pdb
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\MaterialDesignColors.pdb
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\App.g.cs
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\App.baml
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.g.resources
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.csproj.CopyComplete
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.exe
+C:\Users\User\Desktop\File Data Transfer\WpfApp6\obj\Debug\WpfApp6.pdb
